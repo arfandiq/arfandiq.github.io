@@ -1,0 +1,62 @@
+[
+  {
+    "id": "wice",
+    "title": "Gold Medalist - World Invention Competition and Exhibition (WICE)",
+    "org": "Indonesian Young Scientist Association (IYSA) & SEGi University",
+    "date": "09/2025",
+    "summary": "PURE-it: Carpal Tunnel Syndrome detection and rehabilitation. Team Captain; mechanical development, programming, sensing, and detection and rehabilitation prototype integration.",
+    "paragraphs": [
+      "Received a Gold Medal for PURE-it: Portable Utility for Rehabilitation & Examination Innovative Technology, a healthcare technology prototype for Carpal Tunnel Syndrome detection and rehabilitation. Served as Team Captain and contributed to mechanical development, programming, sensing integration, and the development of the prototype’s detection and rehabilitation systems."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/awards/wice-2025-gold"
+  },
+  {
+    "id": "sauvc",
+    "title": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+    "org": "IEEE Oceanic Engineering Society (OES) Singapore Chapter",
+    "date": "03/2025",
+    "summary": "MARE VICTOR. Team Leader and Senior Programming Support; AUV programming, autonomous navigation, computer vision, integration, troubleshooting, and competition preparation.",
+    "paragraphs": [
+      "Achieved 22st place internationally with MARE VICTOR at the Singapore AUV Challenge 2025. Served as Team Leader and Senior Support Programming, contributing to AUV programming, autonomous navigation, computer vision, system integration, technical troubleshooting, and overall competition preparation."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/awards/sauvc-2025-finalist"
+  },
+  {
+    "id": "pimnas",
+    "title": "Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category",
+    "org": "Balai Pengembangan Talenta Indonesia (BPTI), Pusat Prestasi Nasional, Kemendikbudristek RI",
+    "date": "10/2024",
+    "summary": "MOBIV, PKM-KC 2 category. Team Leader from the funding stage through PIMNAS; electrical systems, AI-based CD4 estimation, and project presentation.",
+    "paragraphs": [
+      "Led the development of MOBIV: Portable CD4 Monitoring System for HIV Patients Based on Microfluidic Optical Biosensor Integrated with Internet of Things (IoT), from the PKM-KC 2024 funding stage through PIMNAS 37. Served as Team Leader and contributed to the electrical system and AI-based CD4 estimation. Presented the project in the PKM-KC 2 category and received a Bronze Medal in the Presentation Category."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/awards/pimnas-37-bronze"
+  },
+  {
+    "id": "krbai",
+    "title": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+    "org": "Balai Pengembangan Talenta Indonesia (BPTI), Pusat Prestasi Nasional, Sekretariat Jenderal Kemendikbudristek",
+    "date": "07/2024",
+    "summary": "MARE VICTOR. Team Captain and Programmer; AUV navigation through obstacles and gates, computer vision, programming, system integration, and competition preparation.",
+    "paragraphs": [
+      "Achieved 9th place nationally with MARE VICTOR in the Indonesian Underwater Robot Contest. Served as Team Captain and Programmer, coordinating the development of an Autonomous Underwater Vehicle (AUV) capable of autonomous navigation through obstacles and multiple gates. Contributed to computer vision, programming, system integration, and competition preparation."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/awards/krbai-2024-finalist"
+  },
+  {
+    "id": "pkm",
+    "title": "Awardee - PKM-KC Pendanaan 2024",
+    "org": "Direktorat Pembelajaran dan Kemahasiswaan (Belmawa), Ditjen Diktiristek, Kemendikbudristek RI.",
+    "date": "03/2024",
+    "summary": "MOBIV microfluidic optical biosensor with IoT and AI. Team Leader coordinating electrical development, programming, and prototype integration.",
+    "paragraphs": [
+      "Received funding through the Program Kreativitas Mahasiswa – Karsa Cipta (PKM-KC) for the development of MOBIV, a portable CD4 monitoring system integrating a microfluidic optical biosensor, IoT, and artificial intelligence. Served as Team Leader and coordinated the project’s technical development across electrical, programming, and prototype integration activities."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/awards/pkm-kc-2024-funding"
+  }
+]

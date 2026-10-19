@@ -1,0 +1,52 @@
+[
+  {
+    "title": "Gagas Monitor HIV Berbasis IoT, Tim MOBIV UNAIR Sabet Perunggu PIMNAS",
+    "publisher": "UNAIR NEWS",
+    "date": "29 Oktober 2024",
+    "kind": "Feature",
+    "description": "Liputan inovasi MOBIV untuk monitoring CD4 berbasis microfluidic optical biosensor dan IoT, serta perjalanan tim meraih medali perunggu kategori presentasi PKM-KC 2 di PIMNAS 37.",
+    "url": "https://unair.ac.id/gagas-monitor-hiv-berbasis-iot-tim-mobiv-unair-sabet-perunggu-pimnas/",
+    "id": "mobiv-pimnas",
+    "photoFolder": "assets/photos/articles/mobiv-pimnas"
+  },
+  {
+    "title": "PURE-it Karya Mahasiswa UNAIR Bawa Pulang Emas dari Ajang WICE 2025 di Malaysia",
+    "publisher": "UNAIR NEWS",
+    "date": "1 Oktober 2025",
+    "kind": "Feature",
+    "description": "Kolaborasi lintas fakultas dalam pengembangan PURE-it, alat deteksi dini Carpal Tunnel Syndrome berbasis EMG dan machine learning, yang meraih Gold Medal di WICE 2025, Malaysia.",
+    "url": "https://unair.ac.id/pure-it-karya-mahasiswa-unair-bawa-pulang-emas-dari-ajang-wice-2025-di-malaysia/",
+    "id": "pure-it-wice",
+    "photoFolder": "assets/photos/articles/pure-it-wice"
+  },
+  {
+    "title": "Perjalanan Tim MARVIC dalam KRBAI Tingkat Nasional",
+    "publisher": "FTMM Universitas Airlangga",
+    "kind": "Feature",
+    "description": "Artikel FTMM UNAIR mengenai perjalanan tim MARVIC dalam Kontes Robot Bawah Air Indonesia tingkat nasional. Baca liputan lengkap di situs penerbit.",
+    "url": "https://ftmm.unair.ac.id/perjalanan-tim-marvic-dalam-krbai-tingkat-nasional/",
+    "verification": "URL supplied by user; publisher page could not be retrieved. Display title follows the URL slug; no date inferred.",
+    "id": "marvic-krbai",
+    "photoFolder": "assets/photos/articles/marvic-krbai"
+  },
+  {
+    "title": "Cetak Jejak di Singapura, MARE VICTOR Bertanding di SAUV Challenge 2025",
+    "publisher": "FTMM Universitas Airlangga",
+    "kind": "Feature",
+    "description": "Artikel FTMM UNAIR tentang MARE VICTOR dan SAUV Challenge 2025 di Singapura. Baca cerita selengkapnya langsung di situs penerbit.",
+    "url": "https://ftmm.unair.ac.id/cetak-jejak-di-singapura-mare-victor-bertanding-di-sauv-challenge-2025/",
+    "verification": "URL supplied by user; publisher page could not be retrieved. Display title follows the URL slug; no date inferred.",
+    "id": "mare-victor-sauvc",
+    "photoFolder": "assets/photos/articles/mare-victor-sauvc"
+  },
+  {
+    "title": "Kehadiran Kecerdasan Buatan dan Robot dalam Dunia Perang Berdasarkan Analisis Anime Eighty-Six",
+    "publisher": "Retizen Republika",
+    "date": "13 Mei 2023",
+    "kind": "Article by Arfandi Qurrataain",
+    "description": "Tulisan Arfandi Qurrataain yang membahas robot otonom, batasan kecerdasan buatan, dan tanggung jawab pengembangan teknologi melalui analisis cerita Eighty-Six.",
+    "url": "https://retizen.republika.co.id/posts/215600/kehadiran-kecerdasan-buatan-dan-robot-dalam-dunia-perang-berdasarkan-analisis-anime-eighty-six",
+    "id": "ai-robot-eighty-six",
+    "photoFolder": "assets/photos/articles/ai-robot-eighty-six"
+  }
+]

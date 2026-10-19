@@ -1,0 +1,209 @@
+[
+  {
+    "id": "pemaloe",
+    "title": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+    "date": "01/2026 - Present",
+    "category": "Underwater robotics",
+    "summary": "Individual undergraduate research on GPS-denied underwater 2D position estimation and mapping. Integrates Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing.",
+    "paragraphs": [
+      "Individual undergraduate research project focused on GPS-denied underwater 2D position estimation and mapping. Developing an underwater ROV integrating Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing. Responsible for mechanical and enclosure design, electrical and sensor integration, ROS 2-based sensor processing, coordinate transformation, position estimation, real-time mapping, operator interface development, calibration, and system testing. Positioning performance will be evaluated using Absolute Trajectory Error Root Mean Square Error (ATE-RMSE)."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/rov-pemaloe",
+    "featured": true,
+    "featuredOrder": 1,
+    "tags": [
+      "ROS 2",
+      "Sensor fusion",
+      "Raspberry Pi 5"
+    ]
+  },
+  {
+    "id": "stock",
+    "title": "Stock Price Forecasting in Emerging Markets: A Controlled Empirical Evaluation with Consistent Feature Representation",
+    "date": "10/2025 - 12/2025",
+    "category": "Machine learning",
+    "summary": "Machine Learning Theory final project exploring stock price forecasting in emerging markets.",
+    "paragraphs": [
+      "Final project for the Machine Learning Theory course focused on stock price forecasting in emerging markets. Conducted a controlled empirical evaluation using consistent feature representation, including data preprocessing, feature preparation, model experimentation, and quantitative performance comparison across forecasting approaches."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/stock-price-forecasting",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "pure",
+    "title": "PURE-it: Portable Utility for Rehabilitation & Examination Innovative Technology",
+    "date": "08/2025 - 09/2025",
+    "category": "Healthcare",
+    "summary": "A healthcare prototype for Carpal Tunnel Syndrome detection and rehabilitation, developed for WICE 2025.",
+    "paragraphs": [
+      "Team project developed for the World Invention Competition and Exhibition (WICE) 2025, focused on a healthcare technology prototype for Carpal Tunnel Syndrome detection and rehabilitation. Integrated sensing, machine learning-based detection, and a wearable rehabilitation system. Served as Team Captain and contributed to team coordination, mechanical development, programming, sensing integration, and prototype integration. The project received a Gold Medal at WICE 2025."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/pure-it",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "ckia",
+    "title": "CKIA - Compact Kit for Introduction to Aquarobotics",
+    "date": "07/2025 - 07/2025",
+    "category": "Underwater robotics",
+    "summary": "Compact Kit for Introduction to Aquarobotics. An individual compact 3-DoF mini ROV project for introductory aquarobotics.",
+    "paragraphs": [
+      "Individual underwater robotics project focused on developing a compact 3-DoF mini ROV as an introductory aquarobotics platform. Integrated BLDC thrusters, a 4-in-1 ESC, Arduino Nano-based control, and supporting electrical components. Responsible for mechanical design, fabrication planning, electrical integration, power routing, embedded programming, ESC and BLDC configuration, wiring, assembly, troubleshooting, and functional testing."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/ckia",
+    "featured": true,
+    "featuredOrder": 2,
+    "tags": [
+      "3-DoF",
+      "Arduino Nano",
+      "BLDC"
+    ]
+  },
+  {
+    "id": "clipping",
+    "title": "Automatic VTuber Livestream Clipping Using Machine Learning - Case Study: Kaela Kovalskia",
+    "date": "06/2025",
+    "category": "Machine learning",
+    "summary": "An individual Cloud Computing final project for automatically identifying and clipping relevant livestream segments using machine learning.",
+    "paragraphs": [
+      "Individual final project for the Cloud Computing course focused on automatically identifying and clipping relevant segments from VTuber livestreams using machine learning. Developed a processing workflow integrating yt-dlp for media acquisition, Whisper for audio transcription, audio feature extraction, Random Forest and Support Vector Machine (SVM) for classification, and Streamlit for the interactive application."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/automatic-vtuber-clipping",
+    "featured": true,
+    "featuredOrder": 3,
+    "tags": [
+      "Whisper",
+      "Random Forest / SVM",
+      "Streamlit"
+    ]
+  },
+  {
+    "id": "marvic25",
+    "title": "MARVIC 2.5 - Autonomous Underwater Vehicle for SAUVC 2025",
+    "date": "08/2024 - 03/2025",
+    "category": "Underwater robotics",
+    "summary": "An evolution of MARVIC 2.0 for Singapore AUV Challenge 2025.",
+    "paragraphs": [
+      "Developed an Autonomous Underwater Vehicle as an evolution of the MARVIC 2.0 platform for the Singapore AUV Challenge (SAUVC) 2025. Served as Team Leader and Senior Programming Support, contributing to programming development, computer vision, troubleshooting, and overall competition preparation. MARE VICTOR achieved 22nd place internationally at SAUVC 2025."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/marvic-2-5",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "agv",
+    "title": "Mini AGV Robot",
+    "date": "08/2024 - 12/2024",
+    "category": "Embedded systems",
+    "summary": "Robotics Experiment II final project: autonomous line following and transporting an AGV trolley to a designated destination.",
+    "paragraphs": [
+      "Final project for the Robotics Experiment II course. Developed a mini Automated Guided Vehicle capable of autonomous line following and transporting an AGV trolley from the starting point to the designated destination. Served as Group Coordinator and contributed to system integration, programming, and testing."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/mini-agv",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "tire",
+    "title": "Motorcycle Tubeless Tire Condition Monitoring Using Computer Vision",
+    "date": "08/2024 - 12/2024",
+    "category": "Machine learning",
+    "summary": "Computer Vision team final project for image-based tire condition monitoring and texture analysis.",
+    "paragraphs": [
+      "Team final project for the Computer Vision course focused on developing an image-based system for monitoring motorcycle tubeless tire conditions using computer vision and texture analysis. Contributed to dataset collection and implemented Gray-Level Co-occurrence Matrix (GLCM) feature extraction for image-based tire condition analysis."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/tire-condition-monitoring",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "mobiv",
+    "title": "MOBIV: Portable CD4 Monitoring System for HIV Patients Based on Microfluidic Optical Biosensor Integrated with Internet of Things (IoT)",
+    "date": "02/2024 - 10/2024",
+    "category": "Healthcare",
+    "summary": "A portable CD4 monitoring system developed for PKM-KC 2024 and PIMNAS 37.",
+    "paragraphs": [
+      "Team project developed for PKM-KC 2024 and PIMNAS 37, focused on a portable CD4 monitoring system integrating a microfluidic optical biosensor, image data acquisition, AI-based CD4 estimation, and IoT connectivity. Served as Team Leader and contributed to project coordination, electrical system development, programming, AI-based CD4 estimation, and prototype integration. The project received PKM-KC 2024 funding and earned a Bronze Medal in the Presentation Category at PIMNAS 37."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/mobiv",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "marvic20",
+    "title": "MARVIC 2.0 - Autonomous Underwater Vehicle for KRBAI 2024",
+    "date": "03/2024 - 07/2024",
+    "category": "Underwater robotics",
+    "summary": "An AUV developed for the Indonesian Underwater Robot Contest 2024.",
+    "paragraphs": [
+      "Developed an Autonomous Underwater Vehicle for the 2024 Indonesian Underwater Robot Contest (KRBAI). Served as Team Captain and Programmer, coordinating multidisciplinary development and competition preparation. Contributed to AI-based underwater object detection, including annotation and training of more than 5,000 underwater images, programming, and system integration. MARE VICTOR advanced to the national stage and achieved 9th place nationally at KRBAI 2024."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/marvic-2-0",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "sitera",
+    "title": "IoT Si-Tera (Sistem Tsunami Terintegrasi)",
+    "date": "06/2024",
+    "category": "Embedded systems",
+    "summary": "Internet of Things team final project for integrated tsunami monitoring.",
+    "paragraphs": [
+      "Team final project for the Internet of Things course focused on developing an integrated IoT-based tsunami monitoring system. Contributed to programming and integrating the water-level sensing subsystem to monitor changes in water conditions and support the system's IoT-based monitoring functionality."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/iot-si-tera",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "line",
+    "title": "LINE FOLLOWER ROBOT",
+    "date": "02/2024 - 06/2024",
+    "category": "Embedded systems",
+    "summary": "Robotics Experiment I final project developing an autonomous line follower mobile robot.",
+    "paragraphs": [
+      "Final project for the Robotics Experiment I course. Developed a line follower mobile robot and served as Group Coordinator. Contributed to robot assembly, sensor integration, programming, and autonomous line-following functionality."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/line-follower",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  },
+  {
+    "id": "marvic10",
+    "title": "MARVIC 1.0 - ROV Prototype",
+    "date": "12/2023 - 03/2024",
+    "category": "Underwater robotics",
+    "summary": "The foundational MARE VICTOR ROV platform for underwater robotics and preparation toward KRBAI 2024.",
+    "paragraphs": [
+      "Led the development of an early Remotely Operated Vehicle (ROV) prototype as MARE VICTOR's foundational platform for underwater robotics development and preparation toward KRBAI 2024. Served as Team Captain and coordinated prototype planning, technical development, system integration, and testing of the underwater robotic system."
+    ],
+    "bullets": [],
+    "photoFolder": "assets/photos/projects/marvic-1-0",
+    "featured": false,
+    "featuredOrder": 0,
+    "tags": []
+  }
+]

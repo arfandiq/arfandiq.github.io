@@ -1,0 +1,17 @@
+[
+  {
+    "id": "surovotic",
+    "title": "Underwater Robotics Engineer Intern",
+    "org": "CV. ROV INDONESIA (SUROVOTIC)",
+    "date": "07/2025 - Present",
+    "summary": "Independently developed two underwater robotics systems across mechanical design, electrical integration, embedded programming, integration, and testing. Built a 3-DoF mini ROV with BLDC thrusters, a 4-in-1 ESC, and Arduino Nano. Currently developing a ROS 2 mapping ROV with Raspberry Pi 5, Pixhawk, PMW3901 optical flow, IMU, and pressure-based depth sensing for undergraduate research.",
+    "paragraphs": [],
+    "bullets": [
+      "Independently developed two underwater robotics systems, covering mechanical design, electrical integration, embedded programming, system integration, and testing.",
+      "Designed and built a 3-DoF mini ROV using BLDC thrusters, a 4-in-1 ESC, and an Arduino Nano-based control system.",
+      "Currently developing a ROS 2-based underwater mapping ROV integrating Raspberry Pi 5, Pixhawk, PMW3901 optical flow, IMU, and pressure-based depth sensing for 2D position estimation and mapping as part of undergraduate research."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/internship/surovotic"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "id": "sri",
+    "title": "Robotics & ROV Instructor",
+    "org": "Sekolah Robot Indonesia",
+    "date": "08/2025 - Present",
+    "summary": "Deliver project-based robotics and ROV programs at SD Islam Al Azhar 35 Surabaya, SMP Luqman Al Hakim Surabaya, and NOLA School Surabaya. Teach fundamental robotics, electronics, component identification, wiring, soldering, mechanical design, fabrication, assembly, programming, testing, and troubleshooting. Guide students from understanding components to building and testing their systems.",
+    "paragraphs": [],
+    "bullets": [
+      "Deliver project-based Robotics and ROV extracurricular programs across three partner schools: SD Islam Al Azhar 35 Surabaya, SMP Luqman Al Hakim Surabaya, and NOLA School Surabaya.",
+      "At SD Islam Al Azhar 35, teach fundamental robotics concepts through structured learning modules and hands-on activities.",
+      "At SMP Luqman Al Hakim, teach basic electronics, component identification, wiring, soldering, and practical assembly skills for robotics applications.",
+      "At NOLA School, guide students through ROV development, including mechanical design, fabrication, assembly, soldering, electronics integration, robot programming, testing, and troubleshooting.",
+      "Guide students through the project workflow, from understanding components to assembling, programming, and testing their robotic systems."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/work/sekolah-robot-indonesia"
+  },
+  {
+    "id": "freelance",
+    "title": "Freelance Robotics Instructor",
+    "org": "SMA Amanatul Ummah Pacet & SD Bumi Sholawat Sidoarjo",
+    "date": "10/2023 - 05/2024",
+    "summary": "Taught robotics, electronics, and Arduino programming to elementary and secondary students. Guided line follower robot design, assembly, and programming. Mentored competition teams and collaborated with teachers to evaluate technical progress and practical skills.",
+    "paragraphs": [],
+    "bullets": [
+      "Taught fundamental robotics, electronics, and Arduino programming to elementary and secondary school students.",
+      "Guided students in designing, assembling, and programming line follower robots through hands-on, project-based learning.",
+      "Prepared and mentored student teams for robotics competitions.",
+      "Collaborated with teachers to evaluate students’ technical progress and practical robotics skills."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/work/freelance-robotics-instructor"
+  }
+]

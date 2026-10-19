@@ -1,0 +1,82 @@
+{
+  "brand": "ARFANDIQA",
+  "name": "Arfandi Qurrata’ain",
+  "location": "Surabaya, Indonesia",
+  "email": "arfandiqa@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/arfandiqa",
+  "github": "https://github.com/arfandiq",
+  "heroTitle": [
+    "Engineering",
+    "beneath the",
+    "surface."
+  ],
+  "introduction": "I’m Arfandi Qurrata’ain. I build underwater robots and intelligent systems, connecting mechanical design, electronics, and code.",
+  "summary": "Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence. Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems, and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics teams, research projects, and national and international competitions. Currently conducting undergraduate research on GPS-denied underwater 2D position estimation and mapping using optical flow, IMU, and depth sensing.",
+  "skills": [
+    "Robot Operating System 1 (ROS 1)",
+    "Python",
+    "C",
+    "Robotics Education",
+    "Training & Mentoring",
+    "Robot Operating System 2 (ROS 2)",
+    "C++",
+    "Team Leadership",
+    "Project Coordination"
+  ],
+  "tools": [
+    "Autodesk Inventor",
+    "Fusion 360",
+    "VS Code",
+    "Roboflow",
+    "Git",
+    "Linux",
+    "EasyEDA",
+    "Tinkercad",
+    "Google Colab",
+    "YOLOv8",
+    "Arduino IDE"
+  ],
+  "profilePhotoFolder": "assets/photos/profile",
+  "designPhotoFolder": "assets/photos/hero-design",
+  "quote": {
+    "text": "We will never be a perfect human being. Don't be too hard on yourself. Instead just be better each day. I believe in you.",
+    "author": "Kaela Kovalskia"
+  },
+  "sourceDate": "2026-10-19",
+  "education": {
+    "title": "Robotics and Artificial Intelligence Engineering",
+    "org": "Universitas Airlangga",
+    "date": "08/2022 - Present",
+    "location": "Surabaya",
+    "credential": "S.T.",
+    "status": "In progress, degree not yet awarded",
+    "description": "Focused on robotics, autonomous systems, artificial intelligence, and embedded systems, with hands-on experience in robotic system development and sensor integration. Currently conducting undergraduate research on 2D mapping and position estimation for underwater ROVs using Optical Flow, IMU, and depth sensing.",
+    "photoFolder": "assets/photos/education/universitas-airlangga"
+  },
+  "socials": [
+    {
+      "name": "TikTok",
+      "handle": "@arfandiqa",
+      "url": "https://www.tiktok.com/@arfandiqa"
+    },
+    {
+      "name": "Instagram",
+      "handle": "@arfandiqa",
+      "url": "https://www.instagram.com/arfandiqa/"
+    },
+    {
+      "name": "X",
+      "handle": "@arfandiqa",
+      "url": "https://x.com/arfandiqa"
+    },
+    {
+      "name": "YouTube",
+      "handle": "@arfandiqa",
+      "url": "https://www.youtube.com/@arfandiqa"
+    }
+  ],
+  "anonymousMessage": {
+    "label": "Kirim pesan anonim",
+    "url": "https://ngl.link/arfandiqa"
+  }
+}

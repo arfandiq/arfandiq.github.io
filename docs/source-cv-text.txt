@@ -1,0 +1,363 @@
+Professional Summary
+Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on
+experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence.
+Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems,
+and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics
+teams, research projects, and national and international competitions. Currently conducting undergraduate
+research on GPS-denied underwater 2D position estimation and mapping using optical flow, IMU, and depth
+sensing.
+Skills
+Robot Operating System 1 (ROS 1)
+Python
+C
+Robotics Education
+Training & Mentoring
+Robot Operating System 2 (ROS 2)
+C++
+Team Leadership
+Project Coordination
+Education
+Robotics and Artificial Intelligence Engineering
+Universitas Airlangga
+Focused on robotics, autonomous systems, artificial intelligence, and embedded
+systems, with hands-on experience in robotic system development and sensor
+integration. Currently conducting undergraduate research on 2D mapping and
+position estimation for underwater ROVs using Optical Flow, IMU, and depth
+sensing.
+08/2022 – Present
+Surabaya
+Internships
+Underwater Robotics Engineer Intern
+CV. ROV INDONESIA (SUROVOTIC)
+•
+Independently developed two underwater robotics systems, covering mechanical
+design, electrical integration, embedded programming, system integration, and
+testing.
+07/2025 – Present
+Surabaya
+•
+Designed and built a 3-DoF mini ROV using BLDC thrusters, a 4-in-1 ESC, and an
+Arduino Nano-based control system.
+•
+Currently developing a ROS 2-based underwater mapping ROV integrating
+Raspberry Pi 5, Pixhawk, PMW3901 optical flow, IMU, and pressure-based depth
+sensing for 2D position estimation and mapping as part of undergraduate
+research.
+Work Experience
+Robotics & ROV Instructor
+Sekolah Robot Indonesia
+•
+Deliver project-based Robotics and ROV extracurricular programs across three
+partner schools: SD Islam Al Azhar 35 Surabaya, SMP Luqman Al Hakim Surabaya,
+and NOLA School Surabaya.
+08/2025 – Present
+Surabaya
+•
+At SD Islam Al Azhar 35, teach fundamental robotics concepts through structured
+learning modules and hands-on activities.
+•
+At SMP Luqman Al Hakim, teach basic electronics, component identification,
+wiring, soldering, and practical assembly skills for robotics applications.
+•
+At NOLA School, guide students through ROV development, including mechanical
+design, fabrication, assembly, soldering, electronics integration, robot
+programming, testing, and troubleshooting.
+•
+Guide students through the project workflow, from understanding components to
+assembling, programming, and testing their robotic systems.
+Freelance Robotics Instructor
+SMA Amanatul Ummah Pacet & SD Bumi Sholawat Sidoarjo
+•
+Taught fundamental robotics, electronics, and Arduino programming to
+elementary and secondary school students.
+10/2023 – 05/2024
+Surabaya
+•
+Guided students in designing, assembling, and programming line follower robots
+through hands-on, project-based learning.
+•
+Prepared and mentored student teams for robotics competitions.
+•
+Collaborated with teachers to evaluate students’ technical progress and practical
+robotics skills.
+Projects
+ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV
+Individual undergraduate research project focused on GPS-denied underwater 2D
+position estimation and mapping. Developing an underwater ROV integrating
+Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based
+depth sensing. Responsible for mechanical and enclosure design, electrical and
+sensor integration, ROS 2-based sensor processing, coordinate transformation,
+position estimation, real-time mapping, operator interface development,
+calibration, and system testing. Positioning performance will be evaluated using
+Absolute Trajectory Error Root Mean Square Error (ATE-RMSE).
+01/2026 – Present
+Stock Price Forecasting in Emerging Markets: A Controlled Empirical
+Evaluation with Consistent Feature Representation
+Final project for the Machine Learning Theory course focused on stock price
+forecasting in emerging markets. Conducted a controlled empirical evaluation using
+consistent feature representation, including data preprocessing, feature
+preparation, model experimentation, and quantitative performance comparison
+across forecasting approaches.
+10/2025 – 12/2025
+PURE-it: Portable Utility for Rehabilitation & Examination Innovative
+Technology
+Team project developed for the World Invention Competition and Exhibition (WICE)
+2025, focused on a healthcare technology prototype for Carpal Tunnel Syndrome
+detection and rehabilitation. Integrated sensing, machine learning-based detection,
+and a wearable rehabilitation system. Served as Team Captain and contributed to
+team coordination, mechanical development, programming, sensing integration,
+and prototype integration. The project received a Gold Medal at WICE 2025.
+08/2025 – 09/2025
+CKIA - Compact Kit for Introduction to Aquarobotics
+Individual underwater robotics project focused on developing a compact 3-DoF
+mini ROV as an introductory aquarobotics platform. Integrated BLDC thrusters, a 4-
+in-1 ESC, Arduino Nano-based control, and supporting electrical components.
+Responsible for mechanical design, fabrication planning, electrical integration,
+power routing, embedded programming, ESC and BLDC configuration, wiring,
+assembly, troubleshooting, and functional testing.
+07/2025 – 07/2025
+Automatic VTuber Livestream Clipping Using Machine Learning - Case Study:
+Kaela Kovalskia
+Individual final project for the Cloud Computing course focused on automatically
+identifying and clipping relevant segments from VTuber livestreams using machine
+learning. Developed a processing workflow integrating yt-dlp for media acquisition,
+Whisper for audio transcription, audio feature extraction, Random Forest and
+Support Vector Machine (SVM) for classification, and Streamlit for the interactive
+application.
+06/2025
+MARVIC 2.5 - Autonomous Underwater Vehicle for SAUVC 2025
+Developed an Autonomous Underwater Vehicle as an evolution of the MARVIC 2.0
+platform for the Singapore AUV Challenge (SAUVC) 2025. Served as Team Leader
+and Senior Programming Support, contributing to programming development,
+computer vision, troubleshooting, and overall competition preparation. MARE
+VICTOR achieved 22nd place internationally at SAUVC 2025.
+08/2024 – 03/2025
+Mini AGV Robot
+Final project for the Robotics Experiment II course. Developed a mini Automated
+Guided Vehicle capable of autonomous line following and transporting an AGV
+trolley from the starting point to the designated destination. Served as Group
+Coordinator and contributed to system integration, programming, and testing.
+08/2024 – 12/2024
+Motorcycle Tubeless Tire Condition Monitoring Using Computer Vision
+Team final project for the Computer Vision course focused on developing an image-
+based system for monitoring motorcycle tubeless tire conditions using computer
+vision and texture analysis. Contributed to dataset collection and implemented
+Gray-Level Co-occurrence Matrix (GLCM) feature extraction for image-based tire
+condition analysis.
+08/2024 – 12/2024
+MOBIV: Portable CD4 Monitoring System for HIV Patients Based on Microfluidic
+Optical Biosensor Integrated with Internet of Things (IoT)
+Team project developed for PKM-KC 2024 and PIMNAS 37, focused on a portable
+CD4 monitoring system integrating a microfluidic optical biosensor, image data
+acquisition, AI-based CD4 estimation, and IoT connectivity. Served as Team Leader
+and contributed to project coordination, electrical system development,
+programming, AI-based CD4 estimation, and prototype integration. The project
+received PKM-KC 2024 funding and earned a Bronze Medal in the Presentation
+Category at PIMNAS 37.
+02/2024 – 10/2024
+MARVIC 2.0 - Autonomous Underwater Vehicle for KRBAI 2024
+Developed an Autonomous Underwater Vehicle for the 2024 Indonesian Underwater
+Robot Contest (KRBAI). Served as Team Captain and Programmer, coordinating
+multidisciplinary development and competition preparation. Contributed to AI-
+based underwater object detection, including annotation and training of more than
+5,000 underwater images, programming, and system integration. MARE VICTOR
+advanced to the national stage and achieved 9th place nationally at KRBAI 2024.
+03/2024 – 07/2024
+IoT Si-Tera (Sistem Tsunami Terintegrasi)
+Team final project for the Internet of Things course focused on developing an
+integrated IoT-based tsunami monitoring system. Contributed to programming and
+integrating the water-level sensing subsystem to monitor changes in water
+conditions and support the system's IoT-based monitoring functionality.
+06/2024
+LINE FOLLOWER ROBOT
+Final project for the Robotics Experiment I course. Developed a line follower mobile
+robot and served as Group Coordinator. Contributed to robot assembly, sensor
+integration, programming, and autonomous line-following functionality.
+02/2024 – 06/2024
+MARVIC 1.0 - ROV Prototype
+Led the development of an early Remotely Operated Vehicle (ROV) prototype as
+MARE VICTOR's foundational platform for underwater robotics development and
+preparation toward KRBAI 2024. Served as Team Captain and coordinated prototype
+planning, technical development, system integration, and testing of the underwater
+robotic system.
+12/2023 – 03/2024
+Achievements
+Gold Medalist - World Invention Competition and Exhibition (WICE)
+Indonesian Young Scientist Association (IYSA) & SEGi University
+Received a Gold Medal for PURE-it: Portable Utility for Rehabilitation & Examination
+Innovative Technology, a healthcare technology prototype for Carpal Tunnel
+Syndrome detection and rehabilitation. Served as Team Captain and contributed to
+mechanical development, programming, sensing integration, and the development
+of the prototype’s detection and rehabilitation systems.
+09/2025
+Finalist - Singapore AUV Challenge (SAUVC) 2025
+IEEE Oceanic Engineering Society (OES) Singapore Chapter
+Achieved 22st place internationally with MARE VICTOR at the Singapore AUV
+Challenge 2025. Served as Team Leader and Senior Support Programming,
+contributing to AUV programming, autonomous navigation, computer vision,
+system integration, technical troubleshooting, and overall competition preparation.
+03/2025
+Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category
+Balai Pengembangan Talenta Indonesia (BPTI), Pusat Prestasi Nasional,
+Kemendikbudristek RI
+Led the development of MOBIV: Portable CD4 Monitoring System for HIV Patients
+Based on Microfluidic Optical Biosensor Integrated with Internet of Things (IoT),
+from the PKM-KC 2024 funding stage through PIMNAS 37. Served as Team Leader
+and contributed to the electrical system and AI-based CD4 estimation. Presented
+the project in the PKM-KC 2 category and received a Bronze Medal in the
+Presentation Category.
+10/2024
+Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)
+Balai Pengembangan Talenta Indonesia (BPTI), Pusat Prestasi Nasional, Sekretariat
+Jenderal Kemendikbudristek
+Achieved 9th place nationally with MARE VICTOR in the Indonesian Underwater
+Robot Contest. Served as Team Captain and Programmer, coordinating the
+development of an Autonomous Underwater Vehicle (AUV) capable of autonomous
+navigation through obstacles and multiple gates. Contributed to computer vision,
+programming, system integration, and competition preparation.
+07/2024
+Awardee - PKM-KC Pendanaan 2024
+Direktorat Pembelajaran dan Kemahasiswaan (Belmawa), Ditjen Diktiristek,
+Kemendikbudristek RI.
+Received funding through the Program Kreativitas Mahasiswa – Karsa Cipta (PKM-
+KC) for the development of MOBIV, a portable CD4 monitoring system integrating a
+microfluidic optical biosensor, IoT, and artificial intelligence. Served as Team Leader
+and coordinated the project’s technical development across electrical,
+programming, and prototype integration activities.
+03/2024
+Organization Experience
+Senior Support
+MARE VICTOR
+MARE VICTOR is KOMBO UNAIR’s underwater robotics research team focused on the
+development of ROV and AUV systems for national and international competitions.
+11/2024 – 02/2026
+Surabaya
+•
+Served as Team Leader for the Singapore AUV Challenge (SAUVC) 2025,
+coordinating technical development and team preparation for the international
+competition.
+•
+Provided senior support to the programming division, particularly in system
+development, autonomous robotics, and computer vision.
+•
+Supported technical decision-making and troubleshooting across programming
+and system integration activities.
+•
+Assisted with non-technical team operations, including administration,
+correspondence, and competition preparation.
+•
+Achieved 22nd place internationally at SAUVC 2025.
+Human Resource Development Staff
+KOMBO UNAIR
+KOMBO UNAIR is a semi-autonomous organization under the Faculty of Advanced
+Technology and Multidiscipline (FTMM), Universitas Airlangga, focused on robotics
+research, development, and competitions.
+04/2024 – 12/2024
+Surabaya
+•
+Served as Project Officer for Advanced Training, a regeneration program focused
+on preparing future leaders and managers of KOMBO UNAIR’s research teams.
+•
+Coordinated program planning and implementation to support leadership
+development and continuity across research teams.
+•
+Supported regeneration programs for support teams, core research members,
+and future team leadership.
+•
+Contributed to member development and organizational regeneration within
+KOMBO UNAIR.
+Team Leader
+MARE VICTOR
+•
+Led MARE VICTOR’s multidisciplinary underwater robotics team in the
+development of ROV and AUV systems for the Indonesian Underwater Robot
+Contest (KRBAI) 2024.
+11/2023 – 11/2024
+Surabaya
+•
+Coordinated programming, mechanical, and electrical divisions throughout robot
+development, integration, and competition preparation.
+•
+Contributed to computer vision and perception development while supporting
+overall robotic system integration.
+•
+Led the team to become a national finalist and achieve 9th place at KRBAI 2024.
+•
+Coordinated team operations, technical planning, task distribution, and research
+activities related to underwater robotic systems.
+Person in Charge
+AIROFEST by AIRNOLOGY 2.0
+AIROFEST by AIRNOLOGY 2.0 is a robotics and programming competition organized
+by HIMATERA UNAIR and BEM FTMM Universitas Airlangga, featuring Coding
+Challenge and Line Maze Challenge categories.
+07/2023 – 10/2023
+•
+Served as Person in Charge, overseeing the planning, coordination, and
+implementation of the competition.
+•
+Coordinated the execution of both competition categories, attracting 40 Coding
+Challenge participants and 28 Line Maze Challenge teams.
+•
+Managed committee coordination and supported the overall execution of the
+event.
+Vice Project Officer
+ROTATION 2023
+ROTATION 2023 is an orientation program for incoming students of the Robotics and
+Artificial Intelligence Engineering program at Universitas Airlangga.
+05/2023 – 09/2023
+•
+Served as Vice Project Officer, supporting the planning, coordination, and
+implementation of the orientation program.
+•
+Assisted in coordinating committee activities and organizing program activities
+for incoming students.
+Head of the Science, Research and Technology Department
+HIMATERA UNAIR
+HIMATERA UNAIR is the Robotics Engineering and Artificial Intelligence Student
+Association at Universitas Airlangga.
+02/2023 – 01/2024
+•
+Led the Science, Research and Technology Department and coordinated seven
+departmental work programs focused on research, innovation, achievement
+development, and student technical activities.
+•
+Managed two subdivisions focused on achievement development and innovation
+research, including task delegation, program coordination, and progress
+monitoring.
+•
+Oversaw research, competition, innovation, and student development programs
+throughout the management period.
+External Relations Staff
+KOMBO UNAIR
+•
+Established and maintained relationships between KOMBO UNAIR and external
+robotics communities and organizations.
+03/2023 – 02/2024
+•
+Supported external communication, collaboration, and partnership activities for
+robotics-related programs.
+•
+Assisted in identifying and approaching potential sponsors to support
+organizational activities and robotics competitions.
+•
+Contributed to external coordination and communication for KOMBO UNAIR
+programs and events.
+PKM Divison Staff
+Garuda Sakti Universitas Airlangga
+Garuda Sakti is a Universitas Airlangga student organization that supports students
+participating in the Program Kreativitas Mahasiswa (PKM) and prepares selected
+teams for the Pekan Ilmiah Mahasiswa Nasional (PIMNAS).
+02/2023 – 12/2024
+Surabaya
+•
+Supported the implementation and coordination of PKM activities at Universitas
+Airlangga.
+•
+Assisted in organizing KIM Universitas Airlangga as the university’s internal
+selection process for PKM teams.
+•
+Supported training and preparation programs for students advancing to PIMNAS.
+•
+Contributed to administrative and program activities related to student research,
+innovation, and academic competitions.
+

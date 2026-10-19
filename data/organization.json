@@ -1,0 +1,136 @@
+[
+  {
+    "id": "senior",
+    "title": "Senior Support",
+    "org": "MARE VICTOR",
+    "date": "11/2024 - 02/2026",
+    "summary": "Led the SAUVC 2025 team and supported programming, autonomous robotics, computer vision, technical decisions, and troubleshooting. Supported administration, correspondence, and competition preparation. Achieved 22nd place internationally. MARE VICTOR is KOMBO UNAIR’s underwater robotics research team.",
+    "paragraphs": [
+      "MARE VICTOR is KOMBO UNAIR’s underwater robotics research team focused on the development of ROV and AUV systems for national and international competitions."
+    ],
+    "bullets": [
+      "Served as Team Leader for the Singapore AUV Challenge (SAUVC) 2025, coordinating technical development and team preparation for the international competition.",
+      "Provided senior support to the programming division, particularly in system development, autonomous robotics, and computer vision.",
+      "Supported technical decision-making and troubleshooting across programming and system integration activities.",
+      "Assisted with non-technical team operations, including administration, correspondence, and competition preparation.",
+      "Achieved 22nd place internationally at SAUVC 2025."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/organization/mare-victor-senior-support"
+  },
+  {
+    "id": "hr",
+    "title": "Human Resource Development Staff",
+    "org": "KOMBO UNAIR",
+    "date": "04/2024 - 12/2024",
+    "summary": "Project Officer for Advanced Training, a regeneration program preparing future research team leaders and managers. Coordinated planning, implementation, member development, and continuity across support teams, core researchers, and future leadership. KOMBO UNAIR is a robotics organization under FTMM, Universitas Airlangga.",
+    "paragraphs": [
+      "KOMBO UNAIR is a semi-autonomous organization under the Faculty of Advanced Technology and Multidiscipline (FTMM), Universitas Airlangga, focused on robotics research, development, and competitions."
+    ],
+    "bullets": [
+      "Served as Project Officer for Advanced Training, a regeneration program focused on preparing future leaders and managers of KOMBO UNAIR’s research teams.",
+      "Coordinated program planning and implementation to support leadership development and continuity across research teams.",
+      "Supported regeneration programs for support teams, core research members, and future team leadership.",
+      "Contributed to member development and organizational regeneration within KOMBO UNAIR."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/organization/kombo-human-resource-development"
+  },
+  {
+    "id": "leader",
+    "title": "Team Leader",
+    "org": "MARE VICTOR",
+    "date": "11/2023 - 11/2024",
+    "summary": "Led multidisciplinary ROV and AUV development for KRBAI 2024. Coordinated programming, mechanical, and electrical divisions, system integration, technical planning, task distribution, research, and competition preparation. Contributed to computer vision and perception. National finalist, 9th place.",
+    "paragraphs": [],
+    "bullets": [
+      "Led MARE VICTOR’s multidisciplinary underwater robotics team in the development of ROV and AUV systems for the Indonesian Underwater Robot Contest (KRBAI) 2024.",
+      "Coordinated programming, mechanical, and electrical divisions throughout robot development, integration, and competition preparation.",
+      "Contributed to computer vision and perception development while supporting overall robotic system integration.",
+      "Led the team to become a national finalist and achieve 9th place at KRBAI 2024.",
+      "Coordinated team operations, technical planning, task distribution, and research activities related to underwater robotic systems."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/organization/mare-victor-team-leader"
+  },
+  {
+    "id": "airo",
+    "title": "Person in Charge",
+    "org": "AIROFEST by AIRNOLOGY 2.0",
+    "date": "07/2023 - 10/2023",
+    "summary": "Oversaw planning, coordination, and execution of a robotics and programming competition organized by HIMATERA UNAIR and BEM FTMM. Coordinated Coding Challenge with 40 participants and Line Maze Challenge with 28 teams. Managed committee coordination and event delivery.",
+    "paragraphs": [
+      "AIROFEST by AIRNOLOGY 2.0 is a robotics and programming competition organized by HIMATERA UNAIR and BEM FTMM Universitas Airlangga, featuring Coding Challenge and Line Maze Challenge categories."
+    ],
+    "bullets": [
+      "Served as Person in Charge, overseeing the planning, coordination, and implementation of the competition.",
+      "Coordinated the execution of both competition categories, attracting 40 Coding Challenge participants and 28 Line Maze Challenge teams.",
+      "Managed committee coordination and supported the overall execution of the event."
+    ],
+    "photoFolder": "assets/photos/organization/airofest"
+  },
+  {
+    "id": "rotation",
+    "title": "Vice Project Officer",
+    "org": "ROTATION 2023",
+    "date": "05/2023 - 09/2023",
+    "summary": "Supported planning, coordination, committee activities, and implementation of the orientation program for incoming Robotics and Artificial Intelligence Engineering students at Universitas Airlangga.",
+    "paragraphs": [
+      "ROTATION 2023 is an orientation program for incoming students of the Robotics and Artificial Intelligence Engineering program at Universitas Airlangga."
+    ],
+    "bullets": [
+      "Served as Vice Project Officer, supporting the planning, coordination, and implementation of the orientation program.",
+      "Assisted in coordinating committee activities and organizing program activities for incoming students."
+    ],
+    "photoFolder": "assets/photos/organization/rotation-2023"
+  },
+  {
+    "id": "himatera",
+    "title": "Head of the Science, Research and Technology Department",
+    "org": "HIMATERA UNAIR",
+    "date": "02/2023 - 01/2024",
+    "summary": "Led seven departmental work programs and two subdivisions focused on achievement development and innovation research. Managed task delegation, coordination, progress monitoring, research, competitions, innovation, and student technical development.",
+    "paragraphs": [
+      "HIMATERA UNAIR is the Robotics Engineering and Artificial Intelligence Student Association at Universitas Airlangga."
+    ],
+    "bullets": [
+      "Led the Science, Research and Technology Department and coordinated seven departmental work programs focused on research, innovation, achievement development, and student technical activities.",
+      "Managed two subdivisions focused on achievement development and innovation research, including task delegation, program coordination, and progress monitoring.",
+      "Oversaw research, competition, innovation, and student development programs throughout the management period."
+    ],
+    "photoFolder": "assets/photos/organization/himatera-science-research-technology"
+  },
+  {
+    "id": "external",
+    "title": "External Relations Staff",
+    "org": "KOMBO UNAIR",
+    "date": "03/2023 - 02/2024",
+    "summary": "Maintained relationships with external robotics communities and organizations. Supported communication, collaborations, partnerships, and sponsor outreach for robotics programs and competitions.",
+    "paragraphs": [],
+    "bullets": [
+      "Established and maintained relationships between KOMBO UNAIR and external robotics communities and organizations.",
+      "Supported external communication, collaboration, and partnership activities for robotics-related programs.",
+      "Assisted in identifying and approaching potential sponsors to support organizational activities and robotics competitions.",
+      "Contributed to external coordination and communication for KOMBO UNAIR programs and events."
+    ],
+    "photoFolder": "assets/photos/organization/kombo-external-relations"
+  },
+  {
+    "id": "garuda",
+    "title": "PKM Divison Staff",
+    "org": "Garuda Sakti Universitas Airlangga",
+    "date": "02/2023 - 12/2024",
+    "summary": "Supported PKM implementation and coordination, KIM Universitas Airlangga as an internal PKM selection process, training and preparation for PIMNAS, and administrative programs for student research, innovation, and academic competitions.",
+    "paragraphs": [
+      "Garuda Sakti is a Universitas Airlangga student organization that supports students participating in the Program Kreativitas Mahasiswa (PKM) and prepares selected teams for the Pekan Ilmiah Mahasiswa Nasional (PIMNAS)."
+    ],
+    "bullets": [
+      "Supported the implementation and coordination of PKM activities at Universitas Airlangga.",
+      "Assisted in organizing KIM Universitas Airlangga as the university’s internal selection process for PKM teams.",
+      "Supported training and preparation programs for students advancing to PIMNAS.",
+      "Contributed to administrative and program activities related to student research, innovation, and academic competitions."
+    ],
+    "location": "Surabaya",
+    "photoFolder": "assets/photos/organization/garuda-sakti-pkm"
+  }
+]
