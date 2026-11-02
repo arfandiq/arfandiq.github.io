@@ -64,7 +64,7 @@ Edit `data/profile.json`. Semua skill dalam `skills` tetap tampil. Skill yang bu
 
 Preview: `python3 scripts/preview.py`. Untuk build saja: `python3 scripts/build.py`. Untuk siap deploy: `python3 scripts/build.py --output _site`.
 
-Jangan mengedit `assets/js/content.js` dan `cv.html` langsung karena akan tertimpa build. Perubahan data tetap harus di-commit dan push agar versi GitHub Pages berubah.
+Jangan mengedit `assets/js/content.js` langsung karena akan tertimpa build. Untuk memperbarui CV, ganti `assets/documents/arfandiqa-cv.pdf` dengan PDF baru menggunakan nama file yang sama. Perubahan tetap harus di-commit dan push agar versi GitHub Pages berubah.
 
 ## Sosmed dan pesan anonim
 

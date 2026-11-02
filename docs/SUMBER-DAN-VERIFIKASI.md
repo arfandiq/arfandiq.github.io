@@ -6,7 +6,7 @@ Seluruh 29 nama entri, teks penjelasan, dan 42 poin tanggung jawab diambil dari 
 
 Ejaan asli seperti **PKM Divison Staff**, **22st place**, dan **Senior Support Programming** dipertahankan pada detail yang memuatnya karena permintaan mengikuti CV persis. Klaim ranking dan status ongoing mengikuti sumber bertanggal 19 Oktober 2026. S.T. diberi keterangan masih berlangsung dan belum diberikan.
 
-Nomor telepon tidak disertakan di website atau CV publik. CV publik dibuat dari data lengkap sebagai `cv.html`; pengunjung dapat memilih Print / Save PDF. PDF sumber di folder induk tidak diubah atau diunggah sebagai aset publik.
+Nomor telepon tidak ditampilkan pada halaman utama website. Tombol CV membuka `assets/documents/arfandiqa-cv.pdf`, yaitu salinan PDF CV terbaru yang diberikan pemilik website dan diterbitkan tanpa mengubah isinya.
 
 PDF engineering portfolio dan foto asli belum tersedia saat finalisasi. Tidak ada foto stok, ilustrasi generatif, atau diagram rekaan. Slot media hanya muncul ketika foto asli tersedia. Desain grid, titik, dan garis diagonal dibuat menggunakan CSS.
 
@@ -21,7 +21,7 @@ Quote dan atribusi Kaela Kovalskia berasal dari teks yang diberikan pemilik, den
 ## Pemeriksaan yang disediakan
 
 - `scripts/audit_cv.py`: kecocokan lengkap nama, detail, jumlah bullet, summary, dan skill dengan sumber CV awal.
-- `scripts/check.py`: data, link lokal, path relatif project sites, sintaks JS jika Node tersedia, nomor telepon, dan batas folder deploy.
+- `scripts/check.py`: data, link lokal, path relatif project sites, sintaks JS jika Node tersedia, PDF CV, nomor telepon pada halaman utama, dan batas folder deploy.
 - `scripts/test_build.py`: foto drag-and-drop, urutan, caption, nama ber-spasi, penghapusan foto, penambahan proyek, id duplikat, dan penolakan folder di luar area foto.
 
 Panduan workflow mengikuti dokumentasi resmi GitHub Pages: https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages

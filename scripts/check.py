@@ -18,7 +18,7 @@ def main():
     c={g:load(g) for g in GROUPS};c['profile']=load('profile');validate(c)
     site=ROOT/'_site'
     if not site.exists():raise ValueError('Run python3 scripts/build.py --output _site first')
-    for name in ('index.html','cv.html'):
+    for name in ('index.html',):
         page=site/name;text=page.read_text(encoding='utf-8');parser=Links();parser.feed(text)
         if len(parser.ids)!=len(set(parser.ids)):raise ValueError(f'Duplicate HTML ids in {name}')
         for link in parser.links:
@@ -29,6 +29,8 @@ def main():
             if not target.is_relative_to(site) or not target.exists():raise ValueError(f'Broken local link: {name} -> {link}')
         if '\u2014' in text:raise ValueError(f'Em dash in {name}')
         if 'tel:' in text or '081271524551' in text:raise ValueError(f'Telephone number in {name}')
+    cv=site/'assets/documents/arfandiqa-cv.pdf'
+    if not cv.exists() or not cv.read_bytes().startswith(b'%PDF-'):raise ValueError('Published CV PDF is missing or invalid')
     for forbidden in ('data','docs','scripts','.github','README.md'):
         if (site/forbidden).exists():raise ValueError(f'Unexpected source material in deployment: {forbidden}')
     if shutil.which('node'):

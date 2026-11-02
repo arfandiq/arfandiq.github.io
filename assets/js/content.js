@@ -19,7 +19,33 @@ window.CONTENT = {
         "Sensor fusion",
         "Raspberry Pi 5"
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/rov-pemaloe/00.png",
+          "alt": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/rov-pemaloe/01.jpeg",
+          "alt": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/rov-pemaloe/02.png",
+          "alt": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/rov-pemaloe/03.jpg",
+          "alt": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/rov-pemaloe/04.jpg",
+          "alt": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "stock",
@@ -51,7 +77,18 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/pure-it/00.jpg",
+          "alt": "PURE-it: Portable Utility for Rehabilitation & Examination Innovative Technology",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/pure-it/01.png",
+          "alt": "PURE-it: Portable Utility for Rehabilitation & Examination Innovative Technology",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "ckia",
@@ -71,7 +108,28 @@ window.CONTENT = {
         "Arduino Nano",
         "BLDC"
       ],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/ckia/00.jpg",
+          "alt": "CKIA - Compact Kit for Introduction to Aquarobotics",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/ckia/01.png",
+          "alt": "CKIA - Compact Kit for Introduction to Aquarobotics",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/ckia/02.jpg",
+          "alt": "CKIA - Compact Kit for Introduction to Aquarobotics",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/projects/ckia/03.png",
+          "alt": "CKIA - Compact Kit for Introduction to Aquarobotics",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "clipping",
@@ -107,7 +165,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/marvic-2-5/00.jpg",
+          "alt": "MARVIC 2.5 - Autonomous Underwater Vehicle for SAUVC 2025",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "agv",
@@ -123,7 +187,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/mini-agv/00.jpg",
+          "alt": "Mini AGV Robot",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "tire",
@@ -155,7 +225,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/mobiv/00.jpg",
+          "alt": "MOBIV: Portable CD4 Monitoring System for HIV Patients Based on Microfluidic Optical Biosensor Integrated with Internet of Things (IoT)",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "marvic20",
@@ -171,7 +247,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/marvic-2-0/00.jpg",
+          "alt": "MARVIC 2.0 - Autonomous Underwater Vehicle for KRBAI 2024",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "sitera",
@@ -203,7 +285,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/line-follower/00.jpg",
+          "alt": "LINE FOLLOWER ROBOT",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "marvic10",
@@ -219,7 +307,13 @@ window.CONTENT = {
       "featured": false,
       "featuredOrder": 0,
       "tags": [],
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/projects/marvic-1-0/00.jpg",
+          "alt": "MARVIC 1.0 - ROV Prototype",
+          "caption": ""
+        }
+      ]
     }
   ],
   "work": [
@@ -239,7 +333,18 @@ window.CONTENT = {
       ],
       "location": "Surabaya",
       "photoFolder": "assets/photos/work/sekolah-robot-indonesia",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/work/sekolah-robot-indonesia/00-cover.jpg.jpeg",
+          "alt": "Robotics & ROV Instructor",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/work/sekolah-robot-indonesia/ngajar2.jpeg",
+          "alt": "Robotics & ROV Instructor",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "freelance",
@@ -433,7 +538,23 @@ window.CONTENT = {
       ],
       "bullets": [],
       "photoFolder": "assets/photos/awards/wice-2025-gold",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/awards/wice-2025-gold/00.jpg",
+          "alt": "Gold Medalist - World Invention Competition and Exhibition (WICE)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/wice-2025-gold/01.jpg",
+          "alt": "Gold Medalist - World Invention Competition and Exhibition (WICE)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/wice-2025-gold/02.png",
+          "alt": "Gold Medalist - World Invention Competition and Exhibition (WICE)",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "sauvc",
@@ -446,7 +567,38 @@ window.CONTENT = {
       ],
       "bullets": [],
       "photoFolder": "assets/photos/awards/sauvc-2025-finalist",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/00.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/01.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/02.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/03.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/04.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/sauvc-2025-finalist/06.jpg",
+          "alt": "Finalist - Singapore AUV Challenge (SAUVC) 2025",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "pimnas",
@@ -459,7 +611,28 @@ window.CONTENT = {
       ],
       "bullets": [],
       "photoFolder": "assets/photos/awards/pimnas-37-bronze",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/awards/pimnas-37-bronze/00.jpg",
+          "alt": "Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/pimnas-37-bronze/01.JPG",
+          "alt": "Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/pimnas-37-bronze/02.jpg",
+          "alt": "Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/pimnas-37-bronze/03.png",
+          "alt": "Bronze Medalist - PIMNAS 37, PKM-KC 2 Presentation Category",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "krbai",
@@ -472,7 +645,33 @@ window.CONTENT = {
       ],
       "bullets": [],
       "photoFolder": "assets/photos/awards/krbai-2024-finalist",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/awards/krbai-2024-finalist/00.jpg",
+          "alt": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/krbai-2024-finalist/01.jpg",
+          "alt": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/krbai-2024-finalist/02.jpg",
+          "alt": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/krbai-2024-finalist/03.jpg",
+          "alt": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/krbai-2024-finalist/04.jpg",
+          "alt": "Finalist - Kontes Robot Bawah Air Indonesia (KRBAI)",
+          "caption": ""
+        }
+      ]
     },
     {
       "id": "pkm",
@@ -485,7 +684,23 @@ window.CONTENT = {
       ],
       "bullets": [],
       "photoFolder": "assets/photos/awards/pkm-kc-2024-funding",
-      "photos": []
+      "photos": [
+        {
+          "src": "assets/photos/awards/pkm-kc-2024-funding/00.jpg",
+          "alt": "Awardee - PKM-KC Pendanaan 2024",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/pkm-kc-2024-funding/01.jpg",
+          "alt": "Awardee - PKM-KC Pendanaan 2024",
+          "caption": ""
+        },
+        {
+          "src": "assets/photos/awards/pkm-kc-2024-funding/02.jpg",
+          "alt": "Awardee - PKM-KC Pendanaan 2024",
+          "caption": ""
+        }
+      ]
     }
   ],
   "articles": [
@@ -623,11 +838,17 @@ window.CONTENT = {
       }
     ],
     "anonymousMessage": {
-      "label": "Kirim pesan anonim",
+      "label": "Send an anonymous message",
       "url": "https://ngl.link/arfandiqa"
     }
   },
-  "profilePhotos": [],
+  "profilePhotos": [
+    {
+      "src": "assets/photos/profile/00.png",
+      "alt": "Arfandi Qurrata’ain",
+      "caption": ""
+    }
+  ],
   "designPhotos": [],
   "educationPhotos": []
 };

@@ -49,7 +49,8 @@ const technical = ['Robot Operating System 1 (ROS 1)','Robot Operating System 2 
 $('#technical-skills').innerHTML = P.skills.filter(s => technical.includes(s)).map(s => `<span>${esc(s)}</span>`).join('');
 $('#people-skills').innerHTML = P.skills.filter(s => !technical.includes(s)).map(s => `<span>${esc(s)}</span>`).join('');
 $('#tools').innerHTML = P.tools.map(tool => `<span>${esc(tool)}</span>`).join('');
-$('#personal-quote').innerHTML = `${esc(P.quote.text)}<span class="quote-end" aria-hidden="true">”</span>`;
+const quoteBlock = $('#personal-quote');
+quoteBlock.textContent = P.quote.text;
 $('#quote-author').textContent = P.quote.author;
 document.querySelectorAll('a[href^="mailto:"]').forEach(a => { a.href = 'mailto:' + P.email; if (a.classList.contains('email')) a.textContent = P.email + ' ↗'; });
 document.querySelector('a[href*="linkedin.com"]').href = P.linkedin;
@@ -58,6 +59,7 @@ document.querySelector('a[href*="github.com"]').href = P.github;
 // Social links are editable in data/profile.json; NGL has a distinct message action.
 $('#social-links').innerHTML = (P.socials || []).map((social,i) => `<a class="social-card" href="${esc(social.url)}" target="_blank" rel="noopener noreferrer"><span class="social-number">0${i+1}</span><h3>${esc(social.name)}</h3><span class="social-handle">${esc(social.handle)}</span><span class="social-arrow" aria-hidden="true">↗</span></a>`).join('');
 if (P.anonymousMessage) {
+  $('.anonymous-message p:not(.eyebrow)').textContent = 'Send an anonymous message via NGL.';
   $('#anonymous-link').href = P.anonymousMessage.url;
   $('#anonymous-link').innerHTML = `${esc(P.anonymousMessage.label)} <span aria-hidden="true">↗</span>`;
 } else $('.anonymous-message').hidden = true;
@@ -121,7 +123,7 @@ tabs.forEach((button,i) => {
 });
 experience('work');
 
-$('#awards').innerHTML = C.awards.map((p,i) => `<button class="award-row reveal" data-detail="${esc(p.id)}"><span class="medal" aria-hidden="true">${i === 0 ? '✦' : '◇'}</span><div>${thumbnail(p)}<h3>${esc(p.title)}</h3><p>${esc(p.org)}</p></div><small>${esc(p.date)}</small><span aria-hidden="true">↗</span></button>`).join('');
+$('#awards').innerHTML = C.awards.map(p => `<button class="award-row reveal" data-detail="${esc(p.id)}"><span class="medal" aria-hidden="true">✦</span><div>${thumbnail(p)}<h3>${esc(p.title)}</h3><p>${esc(p.org)}</p></div><small>${esc(p.date)}</small><span aria-hidden="true">↗</span></button>`).join('');
 $('#articles').className = 'article-grid';
 $('#articles').innerHTML = C.articles.map(a => {
   const photo = validPhotos(a)[0];

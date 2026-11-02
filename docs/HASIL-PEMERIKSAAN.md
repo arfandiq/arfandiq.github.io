@@ -6,7 +6,7 @@ Diperiksa pada 19 Oktober 2026.
 
 - Audit sumber lulus untuk 29 nama dan teks detail lengkap entri CV, 42 bullet tanggung jawab, Professional Summary, seluruh skills, dan pendidikan.
 - Tepat 3 featured projects dan 5 link artikel asli.
-- Nomor telepon tidak ada pada HTML website maupun CV publik.
+- Nomor telepon tidak ada pada HTML halaman utama. CV publik memakai PDF asli yang diberikan pemilik website.
 - Quote memiliki petik pembuka dan penutup.
 - Tidak ada ilustrasi SVG, foto buatan, atau placeholder foto di halaman.
 
