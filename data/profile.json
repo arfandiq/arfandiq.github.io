@@ -11,21 +11,23 @@
     "surface."
   ],
   "introduction": "I’m Arfandi Qurrata’ain. I build underwater robots and intelligent systems, connecting mechanical design, electronics, and code.",
-  "summary": "Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence. Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems, and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics teams, research projects, and national and international competitions. Currently conducting undergraduate research on GPS-denied underwater 2D position estimation and mapping using optical flow, IMU, and depth sensing.",
+  "summary": "Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence. Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems, and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics teams, research projects, and national and international competitions. Currently conducting undergraduate thesis on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping.",
   "skills": [
     "Robot Operating System 1 (ROS 1)",
-    "Python",
-    "C",
-    "Robotics Education",
-    "Training & Mentoring",
     "Robot Operating System 2 (ROS 2)",
+    "ArduPilot",
+    "ArduSub",
+    "Python",
     "C++",
+    "C",
     "Team Leadership",
-    "Project Coordination"
+    "Robotics Education",
+    "Project Coordination",
+    "Training & Mentoring"
   ],
   "tools": [
     "Autodesk Inventor",
-    "Fusion 360",
+    "Autodesk Fusion",
     "VS Code",
     "Roboflow",
     "Git",
@@ -34,7 +36,9 @@
     "Tinkercad",
     "Google Colab",
     "YOLOv8",
-    "Arduino IDE"
+    "Arduino IDE",
+    "QGroundControl",
+    "MissionPlanner"
   ],
   "profilePhotoFolder": "assets/photos/profile",
   "designPhotoFolder": "assets/photos/hero-design",
@@ -42,15 +46,29 @@
     "text": "We will never be a perfect human being. Don't be too hard on yourself. Instead just be better each day. I believe in you.",
     "author": "Kaela Kovalskia"
   },
+  "quotes": [
+    {
+      "text": "Take care! Don't get sick :( Stay alive! Live longer! Sleep properly! Eat healthy! Don't work too hard! You're amazing! Thanks. Yee-Haw!",
+      "author": "Kaela Kovalskia"
+    },
+    {
+      "text": "We will never be a perfect human being. Don't be too hard on yourself. Instead just be better each day. I believe in you.",
+      "author": "Kaela Kovalskia"
+    },
+    {
+      "text": "If, one day, you make it to our final destination, would you please leave flowers?",
+      "author": "Shinei Nouzen"
+    }
+  ],
   "sourceDate": "2026-10-19",
   "education": {
     "title": "Robotics and Artificial Intelligence Engineering",
     "org": "Universitas Airlangga",
     "date": "08/2022 - Present",
     "location": "Surabaya",
-    "credential": "S.T.",
-    "status": "In progress, degree not yet awarded",
-    "description": "Focused on robotics, autonomous systems, artificial intelligence, and embedded systems, with hands-on experience in robotic system development and sensor integration. Currently conducting undergraduate research on 2D mapping and position estimation for underwater ROVs using Optical Flow, IMU, and depth sensing.",
+    "credential": "S.T./B.E.",
+    "status": "In progress",
+    "description": "Focused on robotics, autonomous systems, artificial intelligence, and embedded systems, with hands-on experience in robotic system development and sensor integration. Currently conducting undergraduate thesis on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping.",
     "photoFolder": "assets/photos/education/universitas-airlangga"
   },
   "socials": [

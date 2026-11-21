@@ -4,9 +4,9 @@
     "title": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
     "date": "01/2026 - Present",
     "category": "Underwater robotics",
-    "summary": "Individual undergraduate research on GPS-denied underwater 2D position estimation and mapping. Integrates Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing.",
+    "summary": "Individual undergraduate thesis project implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping. Integrates Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing.",
     "paragraphs": [
-      "Individual undergraduate research project focused on GPS-denied underwater 2D position estimation and mapping. Developing an underwater ROV integrating Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing. Responsible for mechanical and enclosure design, electrical and sensor integration, ROS 2-based sensor processing, coordinate transformation, position estimation, real-time mapping, operator interface development, calibration, and system testing. Positioning performance will be evaluated using Absolute Trajectory Error Root Mean Square Error (ATE-RMSE)."
+      "Individual undergraduate thesis project focused on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping. Developing an underwater ROV integrating Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow sensor, IMU, and pressure-based depth sensing. Responsible for mechanical and enclosure design, electrical and sensor integration, ROS 2-based sensor processing, coordinate transformation, mapping implementation, operator interface development, calibration, and system testing."
     ],
     "bullets": [],
     "photoFolder": "assets/photos/projects/rov-pemaloe",
