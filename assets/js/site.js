@@ -45,13 +45,50 @@ $('#hero-title').innerHTML = P.heroTitle.map((line,i) => i === P.heroTitle.lengt
 $('#professional-summary').textContent = P.summary;
 const edu = P.education;
 $('#education').innerHTML = `<span class="eyebrow">EDUCATION / ${esc(edu.date)}</span><h3>${esc(edu.org)}</h3><p>${esc(edu.title)}</p><p>${esc(edu.location)}</p><span class="status">${esc(edu.credential)} · ${esc(edu.status)}</span><p class="small">${esc(edu.description)}</p>${galleryHTML(C.educationPhotos)}`;
-const technical = ['Robot Operating System 1 (ROS 1)','Robot Operating System 2 (ROS 2)','Python','C++','C'];
+const technical = ['Robot Operating System 1 (ROS 1)','Robot Operating System 2 (ROS 2)','ArduPilot','ArduSub','Python','C++','C'];
 $('#technical-skills').innerHTML = P.skills.filter(s => technical.includes(s)).map(s => `<span>${esc(s)}</span>`).join('');
 $('#people-skills').innerHTML = P.skills.filter(s => !technical.includes(s)).map(s => `<span>${esc(s)}</span>`).join('');
 $('#tools').innerHTML = P.tools.map(tool => `<span>${esc(tool)}</span>`).join('');
 const quoteBlock = $('#personal-quote');
 quoteBlock.textContent = P.quote.text;
 $('#quote-author').textContent = P.quote.author;
+
+// Rotating quotes with slide animation every 6 seconds
+if (P.quotes && P.quotes.length > 1) {
+  let currentQuoteIndex = 0;
+  const quoteSection = $('#quote');
+  const quoteText = $('#personal-quote');
+  const quoteAuthor = $('#quote-author');
+
+  function rotateQuote() {
+    quoteText.style.transform = 'translateX(-30px)';
+    quoteText.style.opacity = '0';
+    quoteAuthor.style.transform = 'translateX(-30px)';
+    quoteAuthor.style.opacity = '0';
+
+    setTimeout(() => {
+      currentQuoteIndex = (currentQuoteIndex + 1) % P.quotes.length;
+      const nextQuote = P.quotes[currentQuoteIndex];
+      quoteText.textContent = nextQuote.text;
+      quoteAuthor.textContent = nextQuote.author;
+      quoteSection.setAttribute('aria-label', `A quote from ${nextQuote.author}`);
+
+      quoteText.style.transform = 'translateX(30px)';
+      quoteAuthor.style.transform = 'translateX(30px)';
+
+      setTimeout(() => {
+        quoteText.style.transform = 'translateX(0)';
+        quoteText.style.opacity = '1';
+        quoteAuthor.style.transform = 'translateX(0)';
+        quoteAuthor.style.opacity = '1';
+      }, 50);
+    }, 400);
+  }
+
+  quoteText.style.transition = 'transform 0.4s ease, opacity 0.4s ease';
+  quoteAuthor.style.transition = 'transform 0.4s ease, opacity 0.4s ease';
+  setInterval(rotateQuote, 6000);
+}
 document.querySelectorAll('a[href^="mailto:"]').forEach(a => { a.href = 'mailto:' + P.email; if (a.classList.contains('email')) a.textContent = P.email + ' ↗'; });
 document.querySelector('a[href*="linkedin.com"]').href = P.linkedin;
 document.querySelector('a[href*="github.com"]').href = P.github;

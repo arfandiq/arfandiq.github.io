@@ -6,9 +6,9 @@ window.CONTENT = {
       "title": "ROV PEMALOE - Underwater 2D Mapping and Position Estimation ROV",
       "date": "01/2026 - Present",
       "category": "Underwater robotics",
-      "summary": "Individual undergraduate research on GPS-denied underwater 2D position estimation and mapping. Integrates Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing.",
+      "summary": "Individual undergraduate thesis project implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping. Integrates Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing.",
       "paragraphs": [
-        "Individual undergraduate research project focused on GPS-denied underwater 2D position estimation and mapping. Developing an underwater ROV integrating Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow, IMU, and pressure-based depth sensing. Responsible for mechanical and enclosure design, electrical and sensor integration, ROS 2-based sensor processing, coordinate transformation, position estimation, real-time mapping, operator interface development, calibration, and system testing. Positioning performance will be evaluated using Absolute Trajectory Error Root Mean Square Error (ATE-RMSE)."
+        "Individual undergraduate thesis project focused on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping. Developing an underwater ROV integrating Raspberry Pi 5, Pixhawk, ROS 2, PMW3901 optical flow sensor, IMU, and pressure-based depth sensing. Responsible for mechanical and enclosure design, electrical and sensor integration, ROS 2-based sensor processing, coordinate transformation, mapping implementation, operator interface development, calibration, and system testing."
       ],
       "bullets": [],
       "photoFolder": "assets/photos/projects/rov-pemaloe",
@@ -370,12 +370,12 @@ window.CONTENT = {
       "title": "Underwater Robotics Engineer Intern",
       "org": "CV. ROV INDONESIA (SUROVOTIC)",
       "date": "07/2025 - Present",
-      "summary": "Independently developed two underwater robotics systems across mechanical design, electrical integration, embedded programming, integration, and testing. Built a 3-DoF mini ROV with BLDC thrusters, a 4-in-1 ESC, and Arduino Nano. Currently developing a ROS 2 mapping ROV with Raspberry Pi 5, Pixhawk, PMW3901 optical flow, IMU, and pressure-based depth sensing for undergraduate research.",
+      "summary": "Independently developed two underwater robotics systems across mechanical design, electrical integration, embedded programming, integration, and testing. Built a 3-DoF mini ROV with BLDC thrusters, a 4-in-1 ESC, and Arduino Nano. Currently developing a ROS 2-based underwater ROV integrating optical flow sensor, depth sensor, and IMU for two-dimensional mapping as part of undergraduate thesis.",
       "paragraphs": [],
       "bullets": [
         "Independently developed two underwater robotics systems, covering mechanical design, electrical integration, embedded programming, system integration, and testing.",
         "Designed and built a 3-DoF mini ROV using BLDC thrusters, a 4-in-1 ESC, and an Arduino Nano-based control system.",
-        "Currently developing a ROS 2-based underwater mapping ROV integrating Raspberry Pi 5, Pixhawk, PMW3901 optical flow, IMU, and pressure-based depth sensing for 2D position estimation and mapping as part of undergraduate research."
+        "Currently developing a ROS 2-based underwater ROV integrating Raspberry Pi 5, Pixhawk, PMW3901 optical flow sensor, IMU, and pressure-based depth sensing for implementing sensor integration and two-dimensional mapping as part of undergraduate thesis."
       ],
       "location": "Surabaya",
       "photoFolder": "assets/photos/internship/surovotic",
@@ -773,21 +773,23 @@ window.CONTENT = {
       "surface."
     ],
     "introduction": "I’m Arfandi Qurrata’ain. I build underwater robots and intelligent systems, connecting mechanical design, electronics, and code.",
-    "summary": "Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence. Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems, and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics teams, research projects, and national and international competitions. Currently conducting undergraduate research on GPS-denied underwater 2D position estimation and mapping using optical flow, IMU, and depth sensing.",
+    "summary": "Final-year Robotics and Artificial Intelligence Engineering student at Universitas Airlangga with hands-on experience in underwater robotics, autonomous systems, embedded systems, and artificial intelligence. Experienced in developing ROV and AUV platforms, integrating mechanical, electrical, and software systems, and implementing ROS-based robotics applications. Demonstrated leadership in multidisciplinary robotics teams, research projects, and national and international competitions. Currently conducting undergraduate thesis on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping.",
     "skills": [
       "Robot Operating System 1 (ROS 1)",
-      "Python",
-      "C",
-      "Robotics Education",
-      "Training & Mentoring",
       "Robot Operating System 2 (ROS 2)",
+      "ArduPilot",
+      "ArduSub",
+      "Python",
       "C++",
+      "C",
       "Team Leadership",
-      "Project Coordination"
+      "Robotics Education",
+      "Project Coordination",
+      "Training & Mentoring"
     ],
     "tools": [
       "Autodesk Inventor",
-      "Fusion 360",
+      "Autodesk Fusion",
       "VS Code",
       "Roboflow",
       "Git",
@@ -796,7 +798,9 @@ window.CONTENT = {
       "Tinkercad",
       "Google Colab",
       "YOLOv8",
-      "Arduino IDE"
+      "Arduino IDE",
+      "QGroundControl",
+      "MissionPlanner"
     ],
     "profilePhotoFolder": "assets/photos/profile",
     "designPhotoFolder": "assets/photos/hero-design",
@@ -804,15 +808,29 @@ window.CONTENT = {
       "text": "We will never be a perfect human being. Don't be too hard on yourself. Instead just be better each day. I believe in you.",
       "author": "Kaela Kovalskia"
     },
+    "quotes": [
+      {
+        "text": "Take care! Don't get sick :( Stay alive! Live longer! Sleep properly! Eat healthy! Don't work too hard! You're amazing! Thanks. Yee-Haw!",
+        "author": "Kaela Kovalskia"
+      },
+      {
+        "text": "We will never be a perfect human being. Don't be too hard on yourself. Instead just be better each day. I believe in you.",
+        "author": "Kaela Kovalskia"
+      },
+      {
+        "text": "If, one day, you make it to our final destination, would you please leave flowers?",
+        "author": "Shinei Nouzen"
+      }
+    ],
     "sourceDate": "2026-10-19",
     "education": {
       "title": "Robotics and Artificial Intelligence Engineering",
       "org": "Universitas Airlangga",
       "date": "08/2022 - Present",
       "location": "Surabaya",
-      "credential": "S.T.",
-      "status": "In progress, degree not yet awarded",
-      "description": "Focused on robotics, autonomous systems, artificial intelligence, and embedded systems, with hands-on experience in robotic system development and sensor integration. Currently conducting undergraduate research on 2D mapping and position estimation for underwater ROVs using Optical Flow, IMU, and depth sensing.",
+      "credential": "S.T./B.E.",
+      "status": "In progress",
+      "description": "Focused on robotics, autonomous systems, artificial intelligence, and embedded systems, with hands-on experience in robotic system development and sensor integration. Currently conducting undergraduate thesis on implementing optical flow sensor, depth sensor, and IMU integration on an underwater ROV for two-dimensional mapping.",
       "photoFolder": "assets/photos/education/universitas-airlangga"
     },
     "socials": [
